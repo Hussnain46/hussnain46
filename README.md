@@ -1,11 +1,12 @@
 <!-- Advanced Profile README for hussnain46 -->
 
 <h1 align="center">Hi 👋, I'm MUHAMMAD HUSSNAIN</h1>
-<h3 align="center">A passionate Python Django Developer & AI/ML Enthusiast from Pakistan</h3>
+<h3 align="center">A passionate Python Django Developer & AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Reality+through+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Turning+Ideas+into+Reality+through+Code" alt="Typing SVG" />
 </p>
+
 
 ---
 

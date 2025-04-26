@@ -1,41 +1,42 @@
-<!-- Profile README for hussnain46 -->
+<!-- Advanced Profile README for hussnain46 -->
 
 <h1 align="center">Hi 👋, I'm Muhammad Hussnain</h1>
-<h3 align="center">A passionate Python Django Developer and AI/ML Enthusiast from Pakistan</h3>
+<h3 align="center">A passionate Python Django Developer & AI/ML Enthusiast from Pakistan 🇵🇰</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Reality+through+Code" alt="Typing SVG" />
+</p>
+
+---
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🎓 I'm currently studying at **The Islamia University of Bahawalpur**  
-- 💻 Successfully completed **Python Django Technical Training** at Knowledge Streams  
-- 🥇 Received the **Best Performance Award** in Technical Skills  
-- 🔭 Working on projects like **Healthcare Management System** and **Property Portal**  
-- 🌱 Currently learning **AI/ML**, **DSA**, and advanced Django concepts  
-- 📫 How to reach me: **hussnainakhtar46@gmail.com**  
-- ⚡ Fun fact: I love building real-world solutions through code!
+## 📖 About Me
+
+- 🎓 Student at **The Islamia University of Bahawalpur**
+- 👨‍💻 Completed **Python Django Technical Training** @ Knowledge Streams
+- 🏆 Awarded **Best Performance** in Technical Skills
+- 📈 Focused on **Healthcare Management System**, **Property Portal** Projects
+- 📚 Currently Learning **AI/ML**, **Data Structures & Algorithms**, **Advanced Django**
+- ✉️ Contact me: `iamhussnain46@gmail.com`
+- ✨ Fun Fact: Coding is my superpower!
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,streamlit,html,css,js,git,github,linux,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hussnain46&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussnain46&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussnain46&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hussnain46&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Hussnain's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hussnain46&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussnain46&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -43,20 +44,40 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hussnain46&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hussnain46&theme=onedark&no-frame=true&margin-w=4&column=7"/>
 </p>
 
 ---
 
-## 📫 Connect with me
+## 📢 Connect with Me
 
-<p align="left">
-  <a href="mailto:hussnain.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<p align="center">
+  <a href="mailto:iamhussnain46@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hussnainakhtar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 💡 Fun Section
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hussnain46&theme=github-compact"/>
+</p>
+
+---
+
+## 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hussnain46&label=Profile%20Views&color=0e75b6&style=flat" alt="hussnain46" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&section=footer"/>
 </p>

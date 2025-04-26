@@ -1,7 +1,7 @@
 <!-- Advanced Profile README for hussnain46 -->
 
-<h1 align="center">Hi 👋, I'm Muhammad Hussnain</h1>
-<h3 align="center">A passionate Python Django Developer & AI/ML Enthusiast from Pakistan 🇵🇰</h3>
+<h1 align="center">Hi 👋, I'm MUHAMMAD HUSSNAIN</h1>
+<h3 align="center">A passionate Python Django Developer & AI/ML Enthusiast from Pakistan</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Reality+through+Code" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 
 ## 📖 About Me
 
-- 🎓 Student at **The Islamia University of Bahawalpur**
+- 🎓 Completed my BS from  **The Islamia University of Bahawalpur**
 - 👨‍💻 Completed **Python Django Technical Training** @ Knowledge Streams
 - 🏆 Awarded **Best Performance** in Technical Skills
 - 📈 Focused on **Healthcare Management System**, **Property Portal** Projects
@@ -26,7 +26,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,streamlit,html,css,js,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,streamlit,html,css,js,git,github,vscode" />
 </p>
 
 ---

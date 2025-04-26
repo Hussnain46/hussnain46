@@ -1,7 +1,7 @@
 <!-- Profile README for hussnain46 -->
 
 <h1 align="center">Hi 👋, I'm Muhammad Hussnain</h1>
-<h3 align="center">A passionate Python Django Developer and AI/ML Enthusiast from Pakistan 🇵🇰</h3>
+<h3 align="center">A passionate Python Django Developer and AI/ML Enthusiast from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -10,7 +10,7 @@
 - 🥇 Received the **Best Performance Award** in Technical Skills  
 - 🔭 Working on projects like **Healthcare Management System** and **Property Portal**  
 - 🌱 Currently learning **AI/ML**, **DSA**, and advanced Django concepts  
-- 📫 How to reach me: **hussnain.email@example.com**  
+- 📫 How to reach me: **hussnainakhtar46@gmail.com**  
 - ⚡ Fun fact: I love building real-world solutions through code!
 
 ---

@@ -1,5 +1,3 @@
-<!-- Advanced Profile README for hussnain46 -->
-
 <h1 align="center">Hi 👋, I'm MUHAMMAD HUSSNAIN</h1>
 <h3 align="center">A passionate Python Django Developer & AI/ML Enthusiast</h3>
 
